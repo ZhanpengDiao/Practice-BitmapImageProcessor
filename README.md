@@ -20,3 +20,5 @@
     -l [-1.0-1.0]  Change the level of brightness of an image
     
     -b             Change a colured image to white-and-black
+
+##### Last Update: 12/7/2016
